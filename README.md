@@ -45,4 +45,4 @@ non verrà inserito più volte generando:
 * disponibilità delle informazioni a tutti i livelli.
 
 Il repository include altri repository del moduli della suite come submodule git.
-* Contabilità Finanziari Armonizzata (CFA)[Contabilita]
+* Contabilità Finanziari Armonizzata [CFA](Contabilita)
