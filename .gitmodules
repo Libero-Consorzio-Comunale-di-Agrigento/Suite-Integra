@@ -1,0 +1,3 @@
+[submodule "Contabilita"]
+	path = Contabilita
+	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/CFA.git
