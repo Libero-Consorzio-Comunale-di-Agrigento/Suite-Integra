@@ -2,5 +2,5 @@
 	path = Contabilita
 	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/CFA.git
 [submodule "Prisma"]
-        path = Prisma
-        url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Prisma.git
+	path = Prisma
+	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Prisma
