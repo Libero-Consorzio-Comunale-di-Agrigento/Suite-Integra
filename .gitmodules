@@ -3,4 +3,7 @@
 	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/CFA.git
 [submodule "Prisma"]
 	path = Prisma
-	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Prisma
+	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Prisma.git
+[submodule "Sfera"]
+	path = Sfera
+	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Sfera.git
