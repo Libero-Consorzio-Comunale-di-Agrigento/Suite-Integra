@@ -7,3 +7,6 @@
 [submodule "Sfera"]
 	path = Sfera
 	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Sfera.git
+[submodule "Gestione-Personale"]
+	path = Gestione-Personale
+	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Gestione-Personale.git
