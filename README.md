@@ -14,7 +14,6 @@ omogenea e   tecnicamente corretta con un duplice obiettivo:
 * migliorare la divulgazione delle informazioni
 * gestire il decentramento dei processi all’interno dell’Ente.
 
-
 Punto di partenza dello strumento proposto è la consapevolezza che
 l’ente pubblico costituisce una struttura complessa ed articolata che
 vede, nella sua organizzazione e gestione tradizionale, il prevalere di
