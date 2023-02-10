@@ -10,3 +10,6 @@
 [submodule "Gestione-Personale"]
 	path = Gestione-Personale
 	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Gestione-Personale.git
+[submodule "Amministrazione-Database"]
+	path = Amministrazione-Database
+	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Amministrazione-Database.git
