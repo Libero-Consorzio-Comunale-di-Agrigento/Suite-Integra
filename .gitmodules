@@ -13,3 +13,6 @@
 [submodule "Amministrazione-Database"]
 	path = Amministrazione-Database
 	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Amministrazione-Database.git
+[submodule "Anagrafe-Soggetti"]
+	path = Anagrafe-Soggetti
+	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Anagrafe-Soggetti.git
