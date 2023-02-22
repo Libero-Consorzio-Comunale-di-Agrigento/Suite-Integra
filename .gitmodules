@@ -19,3 +19,6 @@
 [submodule "Struttura-Organizzativa"]
 	path = Struttura-Organizzativa
 	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Struttura-Organizzativa.git
+[submodule "Documentale"]
+	path = Documentale
+	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Documentale.git
