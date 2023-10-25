@@ -49,7 +49,8 @@ description:
       Attraverso l'integrazione tra tutti i moduli proposti, il medesimo dato
       non verrà inserito più volte generando:
       - trasparenza dei dati contabili
-      - disponibilità delle informazioni a tutti i livelli.    
+      - disponibilità delle informazioni a tutti i livelli.
+      Riga di test con formattazione MD: **grassetto**, *corsivo* e **_entrambe le cose_**  
     shortDescription: Integra soluzioni per una Pubblica Amministrazione efficiente e innovativa
 developmentStatus: stable
 it:
