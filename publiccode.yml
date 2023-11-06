@@ -10,7 +10,6 @@ categories:
 description:
   it:
     features:
-      - Servizi Comunali
       - Risorse Umane
       - Atti e Protocollo
       - Contabilità e Controllo
@@ -106,4 +105,6 @@ releaseDate: '2021-09-10'
 softwareType: standalone/web
 url: 'https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Suite-Integra'
 usedBy:
-  - pr_lc
+  - Provincia di Lecco
+  - Libero Consorzio Comunale di Siracusa
+
