@@ -105,6 +105,7 @@ releaseDate: '2021-09-10'
 softwareType: standalone/web
 url: 'https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Suite-Integra'
 usedBy:
+  - Libero Consorzio Comunale di Agrigento
   - Provincia di Lecco
   - Libero Consorzio Comunale di Siracusa
 
