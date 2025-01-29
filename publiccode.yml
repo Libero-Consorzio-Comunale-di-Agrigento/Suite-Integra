@@ -7,6 +7,9 @@ applicationSuite: Suite*Integra
 categories:
   - hr
   - workflow-management
+  - document-management
+  - budgeting
+  - accounting
   - erp
 description:
   it:
