@@ -6,6 +6,7 @@ publiccodeYmlVersion: '0.2'
 applicationSuite: Suite*Integra
 categories:
   - hr
+  - workflow-management
   - erp
 description:
   it:
