@@ -51,3 +51,5 @@ La soluzione permette l'acquisizione dei dati dell'assistenza fiscale da modello
 Il modulo applicativo di **Rilevazione Presenze** elabora e seleziona mensilmente in modo automatico tutte le voci relative sia alle presenze che alle assenze che concorrono al calcolo delle buste paga. L'operazione di trasferimento al Sistema Paghe avviene su decisione e comando dell'Ufficio Personale, ed è completamente automatica.
 
 Il sistema comprende altri sotto-moduli: il Portale del dipendente, Fascicolo del Personale, Dotazione organica, Salario Accessorio e Sistema Pensioni.
+
+Nota: per l'elenco delle dipendenze della suite vedere il file dipendenze.md
