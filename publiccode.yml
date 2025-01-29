@@ -95,13 +95,13 @@ localisation:
 maintenance:
   contractors:
     - name: Ads automated data systems Spa
-      until: '2023-09-09'
+      until: '2030-12-31'
       website: 'http://www.ads.it'
   type: contract
 name: Integra
 platforms:
   - web
-releaseDate: '2021-09-10'
+releaseDate: '2023-02-15'
 softwareType: standalone/web
 url: 'https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Suite-Integra'
 usedBy:
