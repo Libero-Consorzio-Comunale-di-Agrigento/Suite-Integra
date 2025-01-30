@@ -11,6 +11,24 @@ categories:
   - budgeting
   - accounting
   - erp
+dependsOn:
+  open:
+    - name: Apache Tomcat
+      optional: false
+      version: ''
+      versionMax: ''
+      versionMin: '7'
+    - name: Java
+      optional: false
+      version: ''
+      versionMax: ''
+      versionMin: '8'  
+  proprietary:
+    - name: Oracle RDBMS
+      optional: false
+      version: ''
+      versionMax: ''
+      versionMin: '11'
 description:
   it:
     features:
