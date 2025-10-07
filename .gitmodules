@@ -1,27 +1,27 @@
 [submodule "Contabilita"]
 	path = Contabilita
-	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/CFA.git
+	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/CFA.git
 [submodule "Prisma"]
 	path = Prisma
-	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Prisma.git
+	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Prisma.git
 [submodule "Sfera"]
 	path = Sfera
-	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Sfera.git
+	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Sfera.git
 [submodule "Gestione-Personale"]
 	path = Gestione-Personale
-	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Gestione-Personale.git
+	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Gestione-Personale.git
 [submodule "Amministrazione-Database"]
 	path = Amministrazione-Database
-	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Amministrazione-Database.git
+	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Amministrazione-Database.git
 [submodule "Anagrafe-Soggetti"]
 	path = Anagrafe-Soggetti
 	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Anagrafe-Soggetti.git
 [submodule "Struttura-Organizzativa"]
 	path = Struttura-Organizzativa
-	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Struttura-Organizzativa.git
+	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Struttura-Organizzativa.git
 [submodule "Documentale"]
 	path = Documentale
-	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Documentale.git
+	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Documentale.git
 [submodule "Demografici"]
 	path = Demografici
 	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Demografici.git
