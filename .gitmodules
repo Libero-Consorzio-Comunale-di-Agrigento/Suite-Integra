@@ -22,3 +22,6 @@
 [submodule "Documentale"]
 	path = Documentale
 	url = git@github.com:Libero-Consorzio-Comunale-di-Agrigento/Documentale.git
+[submodule "Demografici"]
+	path = Demografici
+	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Demografici.git
