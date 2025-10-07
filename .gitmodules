@@ -25,3 +25,6 @@
 [submodule "Demografici"]
 	path = Demografici
 	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Demografici.git
+[submodule "Entrate"]
+	path = Entrate
+	url = https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Entrate.git
