@@ -1,9 +1,10 @@
-# This repository adheres to the publiccode.yml standard by including this 
-# metadata file that makes public software easily discoverable.
-# More info at https://github.com/italia/publiccode.yml
-
-publiccodeYmlVersion: '0.4'
+publiccodeYmlVersion: 0.5.0
+name: Integra
 applicationSuite: Suite*Integra
+url: https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Suite-Integra
+releaseDate: 2023-02-15
+platforms:
+  - web
 categories:
   - hr
   - workflow-management
@@ -11,26 +12,90 @@ categories:
   - budgeting
   - accounting
   - erp
-dependsOn:
-  open:
-    - name: Apache Tomcat
-      optional: false
-      version: ''
-      versionMax: ''
-      versionMin: '7'
-    - name: Java
-      optional: false
-      version: ''
-      versionMax: ''
-      versionMin: '8'  
-  proprietary:
-    - name: Oracle RDBMS
-      optional: false
-      version: ''
-      versionMax: ''
-      versionMin: '11'
+organisation:
+  uri: urn:x-italian-pa:p_ag
+usedBy:
+  - Libero Consorzio Comunale di Agrigento
+  - Provincia di Lecco
+  - Libero Consorzio Comunale di Siracusa
+  - Provincia di Pisa
+  - Comune di San Donato Milanese
+developmentStatus: stable
+softwareType: standalone/web
 description:
   it:
+    shortDescription: Integra soluzioni per una Pubblica Amministrazione efficiente e innovativa
+    longDescription: >
+      **Suite Integra:**
+
+
+      Integra è la suite gestionale che permette alla PA di operare in maniera
+      efficiente ed innovativa in un contesto in cui l’evoluzione tecnologica è
+      uno strumento al servizio delle Amministrazioni per il raggiungimento dei
+      risultati attesi. È basata su una tecnologia web e cloud e su standard
+      internazionali di sicurezza e comunicazione. I principali elementi
+      qualificanti sono: innovazione tecnologica, rispetto costante della
+      normativa, agevolazione dei processi amministrativi, efficientamento dei
+      servizi pubblici e interoperabilità con le piattaforme abilitanti (tra cui
+      SPID/CIE/eIDAS, SIOPE+, ANPR, INAD, ANSC, ANEL, BDAP, PagoPA, App IO,
+      PDND, SEND).
+
+
+      **Caratteristiche funzionali del servizio:**
+
+
+      \*DIREZIONE GENERALE: Performance Organizzative / Valutazione delle
+      Risorse / Cruscotti Direzionali / Sistema di reporting.
+
+
+      \*AFFARI GENERALI: Protocollo Informatico / Atti Amministrativi / Gestione
+      Contratti / Gestione documentale e gestione iter documentali (motore
+      workflow nativo) / Scrivania Virtuale / Albo Pretorio / Trasparenza /
+      Invio in Conservazione / Gestione firma digitale e sigillo elettronico /
+      Interoperabilità con piattaforme abilitanti nazionali.
+
+
+      \*BILANCIO: Gestione finanziaria ed economica conforme in tutte le sue
+      funzionalità al D. Lgs 118 del 23 giugno 2011 / Cassa Economale /
+      Patrimonio / Mutui / Finanziamenti e Opere Pubbliche / DUP / Fatturazione
+      Elettronica / Magazzino e Inventari / Fascicolo Contabile / Monitoraggio
+      Piano degli Investimenti / Gestione FPV.
+
+
+      \*PARTECIPATE: Gestione amministrativa e segretariale delle società
+      partecipate / Bilancio Consolidato.
+
+
+      \*PROGRAMMAZIONE e CONTROLLO: Bilancio di Mandato / Contabilità analitica
+      per Centri di Costo / Indicatori di Bilancio / Invii XBRL / Budget / Piano
+      degli Obiettivi / Piano Esecutivo di Gestione (PEG) / Predisposizione
+      documenti PIAO.
+
+
+      \*TECNICO-TERRITORIALE: Pubblicazione dati geografici / Mappe tematiche /
+      WebGIS.
+
+
+      \*DEMOGRAFICI: Anagrafe / Stato Civile / Elettorale / Giudici Popolari /
+      Statistiche / Leva militare / Carta Identità Elettronica.
+
+
+      \*ENTRATE: Anagrafe contribuenti e immobiliare / Servizi a Domanda
+      Individuale / Canoni / Imposte e tributi regionali, provinciali, comunali.
+
+
+      \*RISORSE UMANE e ORGANIZZAZIONE: Struttura Organizzativa / Dotazione
+      Organica / Gestione Giuridica / Gestione Economica / Rilevazione
+      presenze-assenze / Buoni pasto / Formazione / Valutazione individuale /
+      Fascicolo Elettronico del Dipendente / Salario Accessorio / Missione e
+      Trasferte / Portale del Dipendente / Gestione iter approvativi / 770 /
+      Conto annuale.
+
+
+      \*SERVIZI a PERSONE e IMPRESE: Portale Istituzionale (Cittadino
+      Informato), Servizi digitali (Cittadino Attivo) / Istanze on-line /
+      Gestione pagamenti on-line (interoperabilità con PagoPA) / Gestione
+      comunicazioni e notifiche (interoperabilità con App IO, SEND, mail, pec).
     features:
       - Risorse Umane
       - Atti e Protocollo
@@ -40,70 +105,35 @@ description:
       - Demografici
       - Entrate
       - Servizi alle persone e imprese
-    genericName: Software Enti Locali
-    longDescription: |
-        **Suite Integra:**
-
-        Integra è la suite gestionale che permette alla PA di operare in maniera efficiente ed innovativa in un contesto in cui l’evoluzione tecnologica è uno strumento al servizio delle Amministrazioni per il raggiungimento dei risultati attesi. È basata su una tecnologia web e cloud e su standard internazionali di sicurezza e comunicazione. I principali elementi qualificanti sono: innovazione tecnologica, rispetto costante della normativa, agevolazione dei processi amministrativi, efficientamento dei servizi pubblici e interoperabilità con le piattaforme abilitanti (tra cui SPID/CIE/eIDAS, SIOPE+, ANPR, INAD, ANSC, ANEL, BDAP, PagoPA, App IO, PDND, SEND).
-
-        **Caratteristiche funzionali del servizio:**
-
-        \*DIREZIONE GENERALE: Performance Organizzative / Valutazione delle Risorse / Cruscotti Direzionali / Sistema di reporting.
-
-        \*AFFARI GENERALI: Protocollo Informatico / Atti Amministrativi / Gestione Contratti / Gestione documentale e gestione iter documentali (motore workflow nativo) / Scrivania Virtuale / Albo Pretorio / Trasparenza / Invio in Conservazione / Gestione firma digitale e sigillo elettronico / Interoperabilità con piattaforme abilitanti nazionali.
-
-        \*BILANCIO: Gestione finanziaria ed economica conforme in tutte le sue funzionalità al D. Lgs 118 del 23 giugno 2011 / Cassa Economale / Patrimonio / Mutui / Finanziamenti e Opere Pubbliche / DUP / Fatturazione Elettronica / Magazzino e Inventari / Fascicolo Contabile / Monitoraggio Piano degli Investimenti / Gestione FPV.
-
-        \*PARTECIPATE: Gestione amministrativa e segretariale delle società partecipate / Bilancio Consolidato.
-
-        \*PROGRAMMAZIONE e CONTROLLO: Bilancio di Mandato / Contabilità analitica per Centri di Costo / Indicatori di Bilancio / Invii XBRL / Budget / Piano degli Obiettivi / Piano Esecutivo di Gestione (PEG) / Predisposizione documenti PIAO.
-
-        \*TECNICO-TERRITORIALE: Pubblicazione dati geografici / Mappe tematiche / WebGIS.
-
-        \*DEMOGRAFICI: Anagrafe / Stato Civile / Elettorale / Giudici Popolari / Statistiche / Leva militare / Carta Identità Elettronica.
-
-        \*ENTRATE: Anagrafe contribuenti e immobiliare / Servizi a Domanda Individuale / Canoni / Imposte e tributi regionali, provinciali, comunali.
-
-        \*RISORSE UMANE e ORGANIZZAZIONE: Struttura Organizzativa / Dotazione Organica / Gestione Giuridica / Gestione Economica / Rilevazione presenze-assenze / Buoni pasto / Formazione / Valutazione individuale / Fascicolo Elettronico del Dipendente / Salario Accessorio / Missione e Trasferte / Portale del Dipendente / Gestione iter approvativi / 770 / Conto annuale.
-
-        \*SERVIZI a PERSONE e IMPRESE: Portale Istituzionale (Cittadino Informato), Servizi digitali (Cittadino Attivo) / Istanze on-line / Gestione pagamenti on-line (interoperabilità con PagoPA) / Gestione comunicazioni e notifiche (interoperabilità con App IO, SEND, mail, pec).
-    shortDescription: Integra soluzioni per una Pubblica Amministrazione efficiente e innovativa
-developmentStatus: stable
-it:
-  conforme:
-    gdpr: false
-    lineeGuidaDesign: false
-    misureMinimeSicurezza: false
-    modelloInteroperabilita: false
-  countryExtensionVersion: '0.2'
-  piattaforme:
-    anpr: false
-    cie: false
-    pagopa: false
-    spid: false
-  riuso:
-    codiceIPA: p_ag
 legal:
   license: AGPL-3.0-only
-localisation:
-  availableLanguages:
-    - it
-  localisationReady: false
 maintenance:
+  type: contract
   contractors:
     - name: Ads automated data systems Spa
-      until: '2030-12-31'
-      website: 'http://www.ads.it'
-  type: contract
-name: Integra
-platforms:
-  - web
-releaseDate: '2023-02-15'
-softwareType: standalone/web
-url: 'https://github.com/Libero-Consorzio-Comunale-di-Agrigento/Suite-Integra'
-usedBy:
-  - Libero Consorzio Comunale di Agrigento
-  - Provincia di Lecco
-  - Libero Consorzio Comunale di Siracusa
-  - Provincia di Pisa
-  - Comune di San Donato Milanese
+      until: 2030-12-31
+      website: http://www.ads.it
+localisation:
+  localisationReady: false
+  availableLanguages:
+    - it
+dependsOn:
+  open:
+    - name: Apache Tomcat
+      versionMin: "7"
+      optional: false
+    - name: Java
+      versionMin: "8"
+      optional: false
+  proprietary:
+    - name: Oracle RDBMS
+      versionMin: "11"
+      optional: false
+IT:
+  countryExtensionVersion: "1.0"
+  piattaforme:
+    spid: true
+    cie: true
+    anpr: true
+    pagopa: true
+  
