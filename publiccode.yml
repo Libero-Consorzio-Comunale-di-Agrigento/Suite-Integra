@@ -116,7 +116,7 @@ maintenance:
 localisation:
   localisationReady: false
   availableLanguages:
-    - it
+    - it-IT
 dependsOn:
   open:
     - name: Apache Tomcat
