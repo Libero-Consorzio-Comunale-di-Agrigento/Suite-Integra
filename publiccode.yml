@@ -129,3 +129,11 @@ dependsOn:
     - name: Oracle RDBMS
       versionMin: "11"
       optional: false
+IT:
+  countryExtensionVersion: "1.0"
+  piattaforme:
+    spid: true
+    cie: true
+    anpr: true
+    pagopa: true
+    io: true
