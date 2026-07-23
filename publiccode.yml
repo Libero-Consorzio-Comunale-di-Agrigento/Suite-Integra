@@ -107,6 +107,8 @@ description:
       - Servizi alle persone e imprese
 legal:
   license: AGPL-3.0-only
+logo: |-
+  https://www.ads.it/wp-content/uploads/2026/07/Logo-Integra_GF.png
 maintenance:
   type: contract
   contractors:
